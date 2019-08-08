@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jokes-react/static/css/main.affddd92.chunk.css",
+    "main.js": "/jokes-react/static/js/main.e5339635.chunk.js",
+    "main.js.map": "/jokes-react/static/js/main.e5339635.chunk.js.map",
+    "runtime~main.js": "/jokes-react/static/js/runtime~main.0070fafe.js",
+    "runtime~main.js.map": "/jokes-react/static/js/runtime~main.0070fafe.js.map",
+    "static/js/2.d186c5e5.chunk.js": "/jokes-react/static/js/2.d186c5e5.chunk.js",
+    "static/js/2.d186c5e5.chunk.js.map": "/jokes-react/static/js/2.d186c5e5.chunk.js.map",
+    "index.html": "/jokes-react/index.html",
+    "precache-manifest.77f55093077e8b71101005c579e76ea7.js": "/jokes-react/precache-manifest.77f55093077e8b71101005c579e76ea7.js",
+    "service-worker.js": "/jokes-react/service-worker.js",
+    "static/css/main.affddd92.chunk.css.map": "/jokes-react/static/css/main.affddd92.chunk.css.map"
+  }
+}
